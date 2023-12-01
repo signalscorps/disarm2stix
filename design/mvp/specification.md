@@ -176,8 +176,6 @@ To support the `_ref`s created in the objects shown above, two other objects are
 * https://raw.githubusercontent.com/signalscorps/stix4signalscorps/main/objects/identity/identity--e9988722-c396-5a91-a08d-db742bd3624b.json
 * https://raw.githubusercontent.com/signalscorps/stix4signalscorps/main/objects/marking-definition/marking-definition--e9988722-c396-5a91-a08d-db742bd3624b.json
 
-These are hardcoded into the `data/stix_templates/` directory in this repository.
-
 ### A note on custom properties (`x_`)
 
 The DISARM team used a range of custom properties found in ATT&CK so the DISARM can be rendered with MITRE ATT&CK Navigator](https://mitre-attack.github.io/attack-navigator/).
